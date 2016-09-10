@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+D:\IMPORTANT\My Projects\QF-MDS_Project_b.tech_4th yr\eclipse_code\MDS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3063109363.index
+3228551580.index
+2832165054.index
+2723798128.index
+3540839101.index
