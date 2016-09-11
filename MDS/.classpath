@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/annotations-api.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/catalina.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/catalina-ant.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/catalina-ha.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/catalina-storeconfig.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/catalina-tribes.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/ecj-4.4.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/el-api.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/jasper.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/jasper-el.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/jsp-api.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/servlet-api.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/tomcat-api.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/tomcat-coyote.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/tomcat-dbcp.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/tomcat-i18n-es.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/tomcat-i18n-fr.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/tomcat-i18n-ja.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/tomcat-jdbc.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/tomcat-jni.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/tomcat-spdy.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/tomcat-util.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/tomcat-util-scan.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/tomcat-websocket.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/All Docs/education/My_Research_Study/QF-MDS_Project_b.tech_4th yr/apache-tomcat-8.0.21/apache-tomcat-8.0.21/lib/websocket-api.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/annotations-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/catalina.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/catalina-ant.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/catalina-ha.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/catalina-storeconfig.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/catalina-tribes.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/ecj-4.4.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/el-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/jasper.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/jasper-el.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/jsp-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/servlet-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-coyote.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-dbcp.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-i18n-es.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-i18n-fr.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-i18n-ja.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-jdbc.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-jni.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-spdy.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-util-scan.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-websocket.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/websocket-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
