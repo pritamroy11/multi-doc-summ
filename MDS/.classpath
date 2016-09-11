@@ -1,37 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_66">
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/annotations-api.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/catalina.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/catalina-ant.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/catalina-ha.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/catalina-storeconfig.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/catalina-tribes.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/ecj-4.4.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/el-api.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/jasper.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/jasper-el.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/jsp-api.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/servlet-api.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-api.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-coyote.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-dbcp.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-i18n-es.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-i18n-fr.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-i18n-ja.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-jdbc.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-jni.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-spdy.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-util.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-util-scan.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/tomcat-websocket.jar"/>
-	<classpathentry exported="true" kind="lib" path="F:/Saurav/Google_Java/Linux_Distros/apache-tomcat-6.0.43/websocket-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
