@@ -1,15 +1,17 @@
 # multi-doc-summ
 
 
-for testing the test-app project change the following entries
+DB_Scripts contain all the script file related to create schemas for backend.
 
-1. <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_45">
+you should run the scripts in the following way.
 
-replace it with the jdk<version> of your system
+source <filename.sql> to load the filename on command line of sql, to load the file.
 
-2. <classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0>
-replace it with the apache tomcat <version>
+1. Source createDB.sql --- this will create the database named multdocsumm.
+2. Use SHOW DATABASES to check from the databases list if multdocsumm exists
+3. Now load doc_info.sql followed by search_doc.sql
+4. Lastly stopsTable.sql
 
 
-then it will run fine
-
+This branch should never be merged with Master branch as it will lead to lose of files & conflicts. Use it for DB related issue.
+In future releases it may be moved to a new repository
