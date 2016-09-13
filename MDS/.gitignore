@@ -1,6 +1,0 @@
-/build/
-.settings
-.metadata
-.project
-
-# for first time cloning it should be there but it should be not checked in 
